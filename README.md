@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RICHA SINGH
 ===================================================================================================================================
 
-Web development | c++ | Java
+Web development | Java
 ----------------------------
 
 Am to work with maximum potential in a challenging and dynamic environment, with an opportunity of working with diverse group of people and enhancing my skills with learning and experience for career growth.
